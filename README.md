@@ -3,7 +3,6 @@
 
 # Android Properties
   
-  ### Complied Sdk version   2
   ### Gradle Version   gradle 6.7
   ### Gradle Build Tools version : tools.build:gradle:4.1.0
 
