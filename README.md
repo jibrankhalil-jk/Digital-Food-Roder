@@ -1,4 +1,4 @@
-# digitalorderingsystem
+# com.azmatdev.digitalorderingsystem
 
 
 # Android Properties
